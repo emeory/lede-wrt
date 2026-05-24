@@ -33,6 +33,7 @@ A template for building OpenWrt with GitHub Actions
 - [Mattraks/delete-workflow-runs](https://github.com/Mattraks/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+- [GitHub Actions 在线云编译 OpenWrt 固件](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 ## License
 
